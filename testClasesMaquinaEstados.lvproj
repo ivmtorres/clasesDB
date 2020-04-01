@@ -17,8 +17,10 @@
 		<Item Name="claseReceta.lvclass" Type="LVClass" URL="../claseReceta/claseReceta.lvclass"/>
 		<Item Name="claseVarilla.lvclass" Type="LVClass" URL="../claseVarilla/claseVarilla.lvclass"/>
 		<Item Name="crearTupla.vi" Type="VI" URL="../operacionDB/crearTupla.vi"/>
+		<Item Name="leerTupla.vi" Type="VI" URL="../operacionDB/leerTupla.vi"/>
 		<Item Name="mainClase.vi" Type="VI" URL="../mainClase.vi"/>
 		<Item Name="seleccionarTableName.vi" Type="VI" URL="../operacionDB/seleccionarTableName.vi"/>
+		<Item Name="updateTupla.vi" Type="VI" URL="../operacionDB/updateTupla.vi"/>
 		<Item Name="verificarDatosEstadistica.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosEstadistica.vi"/>
 		<Item Name="verificarDatosImagen.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosImagen.vi"/>
 		<Item Name="verificarDatosMetalRod.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosMetalRod.vi"/>
@@ -30,8 +32,12 @@
 				<Item Name="GOOP Object Repository Statistics.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/_goopsup.llb/GOOP Object Repository Statistics.ctl"/>
 				<Item Name="GOOP Object Repository.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/_goopsup.llb/GOOP Object Repository.vi"/>
 				<Item Name="NI_Database_API.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/database/NI_Database_API.lvlib"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 			</Item>
+			<Item Name="convertTimeLocalToTimeDBFormat.vi" Type="VI" URL="../../pruebaConexionDBMySQL/convertTimeLocalToTimeDBFormat.vi"/>
+			<Item Name="createStatementToDB.vi" Type="VI" URL="../../pruebaConexionDBMySQL/createStatementToDB.vi"/>
+			<Item Name="dataToConvertInLVData.vi" Type="VI" URL="../../pruebaConexionDBMySQL/dataToConvertInLVData.vi"/>
 			<Item Name="dataToInsertInTableProduct.vi" Type="VI" URL="../../pruebaConexionDBMySQL/dataToInsertInTableProduct.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
