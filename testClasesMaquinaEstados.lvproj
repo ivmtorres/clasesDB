@@ -18,6 +18,7 @@
 		<Item Name="claseVarilla.lvclass" Type="LVClass" URL="../claseVarilla/claseVarilla.lvclass"/>
 		<Item Name="crearTupla.vi" Type="VI" URL="../operacionDB/crearTupla.vi"/>
 		<Item Name="mainClase.vi" Type="VI" URL="../mainClase.vi"/>
+		<Item Name="seleccionarTableName.vi" Type="VI" URL="../operacionDB/seleccionarTableName.vi"/>
 		<Item Name="verificarDatosEstadistica.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosEstadistica.vi"/>
 		<Item Name="verificarDatosImagen.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosImagen.vi"/>
 		<Item Name="verificarDatosMetalRod.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosMetalRod.vi"/>
