@@ -10,22 +10,27 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="auxiliaresVIs" Type="Folder">
+			<Item Name="crearTupla.vi" Type="VI" URL="../operacionDB/crearTupla.vi"/>
+			<Item Name="createStatementToDBInUpdateVI.vi" Type="VI" URL="../operacionDB/createStatementToDBInUpdateVI.vi"/>
+			<Item Name="deleteTupla.vi" Type="VI" URL="../operacionDB/deleteTupla.vi"/>
+			<Item Name="leerTupla.vi" Type="VI" URL="../operacionDB/leerTupla.vi"/>
+			<Item Name="seleccionarTableName.vi" Type="VI" URL="../operacionDB/seleccionarTableName.vi"/>
+			<Item Name="updateTupla.vi" Type="VI" URL="../operacionDB/updateTupla.vi"/>
+			<Item Name="verificarDatosEstadistica.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosEstadistica.vi"/>
+			<Item Name="verificarDatosImagen.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosImagen.vi"/>
+			<Item Name="verificarDatosMetalRod.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosMetalRod.vi"/>
+			<Item Name="verificarDatosProduct.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosProduct.vi"/>
+			<Item Name="verificarDatosReceta.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosReceta.vi"/>
+			<Item Name="writeClusterWithDBReading.vi" Type="VI" URL="../operacionDB/writeClusterWithDBReading.vi"/>
+		</Item>
 		<Item Name="claseDB.lvclass" Type="LVClass" URL="../claseDB/claseDB.lvclass"/>
 		<Item Name="claseEstadistica.lvclass" Type="LVClass" URL="../claseEstadistica/claseEstadistica.lvclass"/>
 		<Item Name="claseImagen.lvclass" Type="LVClass" URL="../claseImagen/claseImagen.lvclass"/>
 		<Item Name="claseProducto.lvclass" Type="LVClass" URL="../claseProducto/claseProducto.lvclass"/>
 		<Item Name="claseReceta.lvclass" Type="LVClass" URL="../claseReceta/claseReceta.lvclass"/>
 		<Item Name="claseVarilla.lvclass" Type="LVClass" URL="../claseVarilla/claseVarilla.lvclass"/>
-		<Item Name="crearTupla.vi" Type="VI" URL="../operacionDB/crearTupla.vi"/>
-		<Item Name="leerTupla.vi" Type="VI" URL="../operacionDB/leerTupla.vi"/>
 		<Item Name="mainClase.vi" Type="VI" URL="../mainClase.vi"/>
-		<Item Name="seleccionarTableName.vi" Type="VI" URL="../operacionDB/seleccionarTableName.vi"/>
-		<Item Name="updateTupla.vi" Type="VI" URL="../operacionDB/updateTupla.vi"/>
-		<Item Name="verificarDatosEstadistica.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosEstadistica.vi"/>
-		<Item Name="verificarDatosImagen.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosImagen.vi"/>
-		<Item Name="verificarDatosMetalRod.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosMetalRod.vi"/>
-		<Item Name="verificarDatosProduct.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosProduct.vi"/>
-		<Item Name="verificarDatosReceta.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosReceta.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="GOOP Object Repository Method.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/_goopsup.llb/GOOP Object Repository Method.ctl"/>
@@ -36,7 +41,6 @@
 				<Item Name="VariantType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/VariantDataType/VariantType.lvlib"/>
 			</Item>
 			<Item Name="convertTimeLocalToTimeDBFormat.vi" Type="VI" URL="../../pruebaConexionDBMySQL/convertTimeLocalToTimeDBFormat.vi"/>
-			<Item Name="createStatementToDB.vi" Type="VI" URL="../../pruebaConexionDBMySQL/createStatementToDB.vi"/>
 			<Item Name="dataToConvertInLVData.vi" Type="VI" URL="../../pruebaConexionDBMySQL/dataToConvertInLVData.vi"/>
 			<Item Name="dataToInsertInTableProduct.vi" Type="VI" URL="../../pruebaConexionDBMySQL/dataToInsertInTableProduct.vi"/>
 		</Item>

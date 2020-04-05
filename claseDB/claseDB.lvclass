@@ -30,13 +30,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="deleteTuplaEnDB.vi" Type="VI" URL="../deleteTuplaEnDB.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%C!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!2$W.M98.F2%)O&lt;(:D&lt;'&amp;T=Q!,9WRB=W6%1C"P&gt;81!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!!5!!Q!!(E"!!!(`````!!=15G&amp;X37ZE:8B5&lt;UVP:'FG?1!!*E"Q!"Y!!"%09WRB=W6%1CZM&gt;G.M98.T!!JD&lt;'&amp;T:52#)'FO!!"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!A!#1-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!%+!!!!#A!!!!!"!!I!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="getClaseDB.vi" Type="VI" URL="../getClaseDB.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!-"!!!!)!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!^!#A!*;721=G^E&gt;7.U!!R!-0````]#&lt;W1!!"2!-0````]+=X2F:7R(=G&amp;E:1!!$E!Q`````Q2M&lt;X2F!!!31&amp;1!"AJE982F1X*F982F!!!01!I!#'FE5G6D;8"F!!!A1&amp;!!"A!&amp;!!9!"Q!)!!E!#AVP9GJF&gt;'^1=G^E&gt;7.U!!V!#A!(;72*&lt;7&amp;H:1!;1$$`````%'.B&lt;8"P=U2F476E;7.J&lt;WY!!"B!5!!$!!Q!$1!*#W^C;G6U&lt;UFN97&gt;F!"2!-0````],;724&gt;'&amp;E;8.U;7-!)%"1!!9!#A!'!!=!$1!*!!]-&lt;W*K:82P5G6D;8"F!!!21!I!#WFE5X2B:'FT&gt;'FD!"R!5!!$!"%!$1!*$W^C;G6U&lt;V.U972J=X2J9Q!,1!I!"7FE5G^E!#"!5!!&amp;!"-!$1!*!!5!$!ZP9GJF&gt;'^.:82B&lt;&amp;*P:!!!&amp;%!B$X6T:62B9GRF5(*P:(6D&gt;!!31#%.&gt;8.F6'&amp;C&lt;'6*&lt;7&amp;H:1!51#%/&gt;8.F6'&amp;C&lt;'63:7.J='5!!":!)2&amp;V=W6597*M:6.U972J=X2J9Q!71#%1&gt;8.F6'&amp;C&lt;'6.:82B&lt;&amp;*P:!!!(%"1!!5!&amp;1!7!"=!'!!:#H2B9GRF6'^6=W5!!#"!5!!'!!M!$A!1!")!&amp;!!;$'2B&gt;'^T1WRB=W6%1A!!,%"Q!"Y!!"%09WRB=W6%1CZM&gt;G.M98.T!"&amp;D&lt;'&amp;T:52#,GRW9WRB=X-A-A!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!+E"Q!"Y!!"%09WRB=W6%1CZM&gt;G.M98.T!!^D&lt;'&amp;T:52#,GRW9WRB=X-!91$Q!!Q!!Q!%!"M!(!!%!!1!"!!%!"U!"!!%!"Y#!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!(Q!!!!!</Property>
@@ -48,7 +48,7 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
 	<Item Name="readTuplaEnDB.vi" Type="VI" URL="../readTuplaEnDB.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%N!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!Z!-0````]%:'&amp;U91!!)%"!!!,``````````Q!&amp;$G2B&gt;'&amp;3:7&amp;E;7ZH4X6U!!!G1(!!(A!!%1^D&lt;'&amp;T:52#,GRW9WRB=X-!#W.M98.F2%)A&lt;X6U!":!5!!$!!!!!1!##'6S=G^S)'FO!!!G1(!!(A!!%1^D&lt;'&amp;T:52#,GRW9WRB=X-!#G.M98.F2%)A;7Y!!&amp;1!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!"!!*!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!+!!!!!!%!#A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$`!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!2$W.M98.F2%)O&lt;(:D&lt;'&amp;T=Q!,9WRB=W6%1C"P&gt;81!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!#:!=!!?!!!2$W.M98.F2%)O&lt;(:D&lt;'&amp;T=Q!+9WRB=W6%1C"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!I!!!!!!1!)!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
@@ -66,12 +66,12 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="updateTuplaEnDB.vi" Type="VI" URL="../updateTuplaEnDB.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"A!!!!!A!%!!!!6!$Q!!Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#!!"Y!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!"!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;%!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#:!=!!?!!!2$W.M98.F2%)O&lt;(:D&lt;'&amp;T=Q!,9WRB=W6%1C"P&gt;81!&amp;E"1!!-!!!!"!!)):8*S&lt;X)A;7Y!!!5!!Q!!(E"!!!(`````!!=15G&amp;X37ZE:8B5&lt;UVP:'FG?1!!#!!Q`````Q!;1%!!!P``````````!!E*382F&lt;5ZB&lt;76T!#:!=!!?!!!2$W.M98.F2%)O&lt;(:D&lt;'&amp;T=Q!+9WRB=W6%1C"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!#!!+!!M$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!%+!!!"#A!!!!I!!!!!!1!-!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 </LVClass>
