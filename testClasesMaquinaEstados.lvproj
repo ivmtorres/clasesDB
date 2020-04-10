@@ -24,13 +24,22 @@
 			<Item Name="verificarDatosReceta.vi" Type="VI" URL="../../pruebaConexionDBMySQL/verificarDatosReceta.vi"/>
 			<Item Name="writeClusterWithDBReading.vi" Type="VI" URL="../operacionDB/writeClusterWithDBReading.vi"/>
 		</Item>
+		<Item Name="buildingDataToUpdate.vi" Type="VI" URL="../operacionDB/buildingDataToUpdate.vi"/>
+		<Item Name="BuildingQueryDeleteInFunctionToParameters.vi" Type="VI" URL="../operacionDB/BuildingQueryDeleteInFunctionToParameters.vi"/>
+		<Item Name="BuildingQueryInFunctionToParameters.vi" Type="VI" URL="../operacionDB/BuildingQueryInFunctionToParameters.vi"/>
 		<Item Name="claseDB.lvclass" Type="LVClass" URL="../claseDB/claseDB.lvclass"/>
 		<Item Name="claseEstadistica.lvclass" Type="LVClass" URL="../claseEstadistica/claseEstadistica.lvclass"/>
 		<Item Name="claseImagen.lvclass" Type="LVClass" URL="../claseImagen/claseImagen.lvclass"/>
 		<Item Name="claseProducto.lvclass" Type="LVClass" URL="../claseProducto/claseProducto.lvclass"/>
 		<Item Name="claseReceta.lvclass" Type="LVClass" URL="../claseReceta/claseReceta.lvclass"/>
 		<Item Name="claseVarilla.lvclass" Type="LVClass" URL="../claseVarilla/claseVarilla.lvclass"/>
+		<Item Name="DataReadingStringToClusterFormar.vi" Type="VI" URL="../operacionDB/DataReadingStringToClusterFormar.vi"/>
+		<Item Name="deleteStadisticDataInStadisticTable.vi" Type="VI" URL="../operacionDB/deleteStadisticDataInStadisticTable.vi"/>
 		<Item Name="mainClase.vi" Type="VI" URL="../mainClase.vi"/>
+		<Item Name="readStadisticDataInStadisticTable.vi" Type="VI" URL="../operacionDB/readStadisticDataInStadisticTable.vi"/>
+		<Item Name="transformedColumnInformation.vi" Type="VI" URL="../operacionDB/transformedColumnInformation.vi"/>
+		<Item Name="updateStadisticDataInStadisticTable.vi" Type="VI" URL="../operacionDB/updateStadisticDataInStadisticTable.vi"/>
+		<Item Name="writeStadisticDataInStadisticTable.vi" Type="VI" URL="../operacionDB/writeStadisticDataInStadisticTable.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="GOOP Object Repository Method.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/_goopsup.llb/GOOP Object Repository Method.ctl"/>
