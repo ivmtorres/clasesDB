@@ -21,25 +21,25 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
 	<Item Name="createTuplaEnDBReceta.vi" Type="VI" URL="../createTuplaEnDBReceta.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%=!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%W.M98.F5G6D:82B,GRW9WRB=X-!$W.M98.F5G6D:82B)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!/9WRB=W63:7.F&gt;'%A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%=!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%W.M98.F5G6D:82B,GRW9WRB=X-!$W.M98.F5G6D:82B)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!/9WRB=W63:7.F&gt;'%A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="deleteTuplaEnDBReceta.vi" Type="VI" URL="../deleteTuplaEnDBReceta.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%=!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%W.M98.F5G6D:82B,GRW9WRB=X-!$W.M98.F5G6D:82B)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!/9WRB=W63:7.F&gt;'%A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%=!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%W.M98.F5G6D:82B,GRW9WRB=X-!$W.M98.F5G6D:82B)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!/9WRB=W63:7.F&gt;'%A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="getClaseReceta.vi" Type="VI" URL="../getClaseReceta.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!('!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!"!!!!!^!#A!);723:7.J='5!!"J!-0````]2&lt;X6U2'FB&lt;76U:8*3:7.J='5!'E!Q`````R"T&gt;'6F&lt;%&gt;S972F5G6D;8"F!!!A1$$`````&amp;G.B&lt;8"P=U2F476E;7.J&lt;WZ3:7.J='5!!"B!6!!'%'2B&gt;'6$=G6B&gt;'63:7.J='5!!"&amp;!#A!,;724&gt;'&amp;E;8.U;7-!(E"1!!9!"1!'!!=!#!!*!!I,:'&amp;U96*F972J&lt;G=!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!09WRB=W63:7.F&gt;'%A&lt;X6U!":!5!!$!!!!!1!##76S=G^S)'^V&gt;!!O1(!!(A!!&amp;2.D&lt;'&amp;T:6*F9W6U93ZM&gt;G.M98.T!!ZD&lt;'&amp;T:6*F9W6U93"J&lt;A!!91$Q!!Q!!Q!%!!M!$!!%!!1!"!!%!!U!"!!%!!Y#!!"Y!!!)!!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!U!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!$Q!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'Y!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!^!#A!);723:7.J='5!!"J!-0````]2&lt;X6U2'FB&lt;76U:8*3:7.J='5!'E!Q`````R"T&gt;'6F&lt;%&gt;S972F5G6D;8"F!!!A1$$`````&amp;G.B&lt;8"P=U2F476E;7.J&lt;WZ3:7.J='5!!"B!6!!'%'2B&gt;'6$=G6B&gt;'63:7.J='5!!"&amp;!#A!,;724&gt;'&amp;E;8.U;7-!(E"1!!9!"1!'!!=!#!!*!!I,:'&amp;U96*F972J&lt;G=!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!09WRB=W63:7.F&gt;'%A&lt;X6U!":!5!!$!!!!!1!##'6S=G^S)'FO!!!O1(!!(A!!&amp;2.D&lt;'&amp;T:6*F9W6U93ZM&gt;G.M98.T!!ZD&lt;'&amp;T:6*F9W6U93"J&lt;A!!5Q$Q!!I!!Q!%!!M!$!!%!!1!$1!%!!1!$A)!!.!!!!U'!!!!!!!!#1!!!!U*!!!!!!!!!!!!!!A!!!!!!!!!!!!!!!A!!!M!!!!+!!!!!!!!!!!"!!]!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
@@ -48,13 +48,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
 	<Item Name="readTuplaEnDBReceta.vi" Type="VI" URL="../readTuplaEnDBReceta.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%=!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%W.M98.F5G6D:82B,GRW9WRB=X-!$W.M98.F5G6D:82B)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!/9WRB=W63:7.F&gt;'%A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%=!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%W.M98.F5G6D:82B,GRW9WRB=X-!$W.M98.F5G6D:82B)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!/9WRB=W63:7.F&gt;'%A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!+!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 	<Item Name="setClaseReceta.vi" Type="VI" URL="../setClaseReceta.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(%!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%W.M98.F5G6D:82B,GRW9WRB=X-!$W.M98.F5G6D:82B)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!$U!+!!BJ:&amp;*F9WFQ:1!!'E!Q`````R&amp;P&gt;82%;7&amp;N:82F=F*F9WFQ:1!;1$$`````%(.U:76M2X*B:'63:7.J='5!!#"!-0````]79W&amp;N='^T2'6.:72J9WFP&lt;F*F9WFQ:1!!'%"5!!91:'&amp;U:5.S:7&amp;U:6*F9WFQ:1!!%5!+!!NJ:&amp;.U972J=X2J9Q!=1&amp;!!"A!(!!A!#1!+!!M!$!FE982B6'^4:81!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!/9WRB=W63:7.F&gt;'%A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!$1!/!A!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!A!!!!+!!!.!!!!$!!!!!!!!!!!!!!"!!]!!!!!</Property>
@@ -66,12 +66,12 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 	</Item>
 	<Item Name="updateTuplaEnDBReceta.vi" Type="VI" URL="../updateTuplaEnDBReceta.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%=!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%W.M98.F5G6D:82B,GRW9WRB=X-!$W.M98.F5G6D:82B)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!/9WRB=W63:7.F&gt;'%A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!A!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!)!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%=!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#Z!=!!?!!!6%W.M98.F5G6D:82B,GRW9WRB=X-!$W.M98.F5G6D:82B)'^V&gt;!!71&amp;!!!Q!!!!%!!ABF=H*P=C"J&lt;A!!,E"Q!"Y!!"549WRB=W63:7.F&gt;'%O&lt;(:D&lt;'&amp;T=Q!/9WRB=W63:7.F&gt;'%A;7Y!!'%!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"!!(!Q!!?!!!$1A!!!!!!!!!!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!!!!!!+!!!.!!!!$!!!!!!!!!!!!!!"!!A!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 </LVClass>

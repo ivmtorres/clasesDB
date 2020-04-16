@@ -54,6 +54,23 @@
 			<Item Name="verificarDatosProducto.vi" Type="VI" URL="../operacionDB/verificarDatosProducto.vi"/>
 			<Item Name="verificarDatosStadistic.vi" Type="VI" URL="../operacionDB/verificarDatosStadistic.vi"/>
 			<Item Name="writeProductDataInProductTable.vi" Type="VI" URL="../operacionDB/writeProductDataInProductTable.vi"/>
+			<Item Name="transformedRecipeColumnInformation.vi" Type="VI" URL="../operacionDB/transformedRecipeColumnInformation.vi"/>
+			<Item Name="verificarDatosRecipe.vi" Type="VI" URL="../operacionDB/verificarDatosRecipe.vi"/>
+			<Item Name="readRecetaDataInRecetaTable.vi" Type="VI" URL="../operacionDB/readRecetaDataInRecetaTable.vi"/>
+			<Item Name="RecipeDataReadingStringToClusterFormar.vi" Type="VI" URL="../operacionDB/RecipeDataReadingStringToClusterFormar.vi"/>
+			<Item Name="deleteRecipeDataInRecipeTable.vi" Type="VI" URL="../operacionDB/deleteRecipeDataInRecipeTable.vi"/>
+			<Item Name="BuildingQueryDeleteRecipeInFunctionToParameters.vi" Type="VI" URL="../operacionDB/BuildingQueryDeleteRecipeInFunctionToParameters.vi"/>
+			<Item Name="BuildingQueryDeleteProductInFunctionToParameters.vi" Type="VI" URL="../operacionDB/BuildingQueryDeleteProductInFunctionToParameters.vi"/>
+			<Item Name="updateRecipeDataInRecipeTable.vi" Type="VI" URL="../operacionDB/updateRecipeDataInRecipeTable.vi"/>
+			<Item Name="writeRecetaDataInRecetaTable.vi" Type="VI" URL="../operacionDB/writeRecetaDataInRecetaTable.vi"/>
+			<Item Name="writeVarillaDataInVarillaTable.vi" Type="VI" URL="../operacionDB/writeVarillaDataInVarillaTable.vi"/>
+			<Item Name="transformedMetalRodColumnInformation.vi" Type="VI" URL="../operacionDB/transformedMetalRodColumnInformation.vi"/>
+			<Item Name="verificarDatosVarilla.vi" Type="VI" URL="../operacionDB/verificarDatosVarilla.vi"/>
+			<Item Name="readVarillaDataInVarillaTable.vi" Type="VI" URL="../operacionDB/readVarillaDataInVarillaTable.vi"/>
+			<Item Name="VarillaDataReadingStringToClusterFormar.vi" Type="VI" URL="../operacionDB/VarillaDataReadingStringToClusterFormar.vi"/>
+			<Item Name="deleteVarillaDataInVarillaTable.vi" Type="VI" URL="../operacionDB/deleteVarillaDataInVarillaTable.vi"/>
+			<Item Name="BuildingQueryDeleteVarillaInFunctionToParameters.vi" Type="VI" URL="../operacionDB/BuildingQueryDeleteVarillaInFunctionToParameters.vi"/>
+			<Item Name="updateVarillaDataInVarillaTable.vi" Type="VI" URL="../operacionDB/updateVarillaDataInVarillaTable.vi"/>
 		</Item>
 		<Item Name="claseDB.lvclass" Type="LVClass" URL="../claseDB/claseDB.lvclass"/>
 		<Item Name="claseEstadistica.lvclass" Type="LVClass" URL="../claseEstadistica/claseEstadistica.lvclass"/>
