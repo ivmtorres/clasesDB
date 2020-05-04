@@ -71,6 +71,9 @@
 			<Item Name="deleteVarillaDataInVarillaTable.vi" Type="VI" URL="../operacionDB/deleteVarillaDataInVarillaTable.vi"/>
 			<Item Name="BuildingQueryDeleteVarillaInFunctionToParameters.vi" Type="VI" URL="../operacionDB/BuildingQueryDeleteVarillaInFunctionToParameters.vi"/>
 			<Item Name="updateVarillaDataInVarillaTable.vi" Type="VI" URL="../operacionDB/updateVarillaDataInVarillaTable.vi"/>
+			<Item Name="RecipeBuildingQueryInFunctionToParameters.vi" Type="VI" URL="../operacionDB/RecipeBuildingQueryInFunctionToParameters.vi"/>
+			<Item Name="determinateTheRawSizeOfTable.vi" Type="VI" URL="../operacionDB/determinateTheRawSizeOfTable.vi"/>
+			<Item Name="RodBuildingQueryInFunctionToParameters.vi" Type="VI" URL="../operacionDB/RodBuildingQueryInFunctionToParameters.vi"/>
 		</Item>
 		<Item Name="claseDB.lvclass" Type="LVClass" URL="../claseDB/claseDB.lvclass"/>
 		<Item Name="claseEstadistica.lvclass" Type="LVClass" URL="../claseEstadistica/claseEstadistica.lvclass"/>
@@ -78,7 +81,12 @@
 		<Item Name="claseProducto.lvclass" Type="LVClass" URL="../claseProducto/claseProducto.lvclass"/>
 		<Item Name="claseReceta.lvclass" Type="LVClass" URL="../claseReceta/claseReceta.lvclass"/>
 		<Item Name="claseVarilla.lvclass" Type="LVClass" URL="../claseVarilla/claseVarilla.lvclass"/>
-		<Item Name="mainClase.vi" Type="VI" URL="../mainClase.vi"/>
+		<Item Name="cargaGrlDB.vi" Type="VI" URL="../cargaGrlDB.vi"/>
+		<Item Name="cargarDatoProducto.vi" Type="VI" URL="../cargarDatoProducto.vi"/>
+		<Item Name="cargarDatoVarilla.vi" Type="VI" URL="../cargarDatoVarilla.vi"/>
+		<Item Name="cargarDatoReceta.vi" Type="VI" URL="../cargarDatoReceta.vi"/>
+		<Item Name="cargarDatoImagen.vi" Type="VI" URL="../cargarDatoImagen.vi"/>
+		<Item Name="cargarDatoEstadistica.vi" Type="VI" URL="../cargarDatoEstadistica.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="GOOP Object Repository Method.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/_goopsup.llb/GOOP Object Repository Method.ctl"/>
